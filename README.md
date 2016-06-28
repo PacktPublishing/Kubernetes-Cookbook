@@ -1,4 +1,4 @@
-# Kubernetes-Cookbook
+# Kubernetes Cookbook
 Kubernetes Cookbook
 By PacktPublishing
 
